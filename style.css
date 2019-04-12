@@ -32,7 +32,7 @@ body {
 
 /*--- Landing Page --*/
  .home-inner {
-    background-image: url('img/trail2.jpg');
+    background-image: url(img/Trail2.jpg);
     opacity: .9;
  }
 .caption {
